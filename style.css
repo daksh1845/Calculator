@@ -55,3 +55,14 @@ button{
 .operator{
    color: #6dee0a;
 }
+
+@media(max-width:1000px){
+   body{
+      zoom:2.5;
+      margin-top:-500px;
+      height:100vh 
+   }
+   .cv{
+      margin-top:-300px;
+   }
+}
